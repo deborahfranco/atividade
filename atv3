@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <p>Lorem <span class="verde"> ipsum dolor</span> sit amet consectetur adipisicing elit. Inventore impedit natus voluptas maiores soluta magni. Aliquid, aliquam ducimus! Est quaerat ratione expedita tenetur voluptatibus molestias dolor laborum iure molestiae similique?  </p>  
+      <input>
+      <button> Pesquisar</button> 
+</body>
+
+</html>￼Enter
