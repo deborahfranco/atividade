@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  nav class="navbar">
+         Logo:
+         <ul>
+            <li> <a href="aula05.html">Home </a> </li>
+            <li> <a href="aula04.html">Galeria</a></li>
+            <li> <a href="aula03.html">Projetos</a> </li>
+            <li><a href="aula02.html"> Contatos</a> </li>
+         </ul>
+        
+      </nav>
+      <h2> Texto de Formatacao </h2>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+      <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat voluptates, libero laudantium nulla repudiandae maxime. Ab et eveniet corrupti qui, atque est odio voluptate fugiat explicabo illo, numquam dolores quaerat?</p>
+
+</body>
+
+</html>￼Enter
