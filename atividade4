@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h3> Lista de Linguagem</h3>
+    <hr/>
+    <ul class="lista">
+        <li> JS </li>
+        <li> php </li>
+        <li> html</li>    
+    </ul>
+    <ul class="lista1">
+      <li> JS </li>
+      <li> php </li>
+      <li> html</li>
+  </ul>
+   <hr/>
+</body>
+
+</html>￼Enter
