@@ -1,0 +1,67 @@
+.wrraper{
+  width: 90%;
+  margin: 10px 5%;
+  border: 2px solid black;
+  border-radius: 15px;
+  box-shadow: 10px 10px 12px silver;
+}
+
+.bg-light{
+    background-color: rgb(7, 123, 85) !important;
+}
+
+.imagem {
+    width: 90%;
+    border-radius: 50%;
+    position: relative;
+    margin-top: 14%;
+    margin-left: 5%;
+    padding: 1%;
+    
+
+
+}
+
+.navbar-brand{
+    color: aliceblue !important;
+}
+.nav-link{
+    color: aliceblue !important;
+}
+.navbar-nav{
+    color: aliceblue !important;
+}
+.box{
+    border: 0px solid black;
+    width: 90%;
+    margin: -120px 5%;
+    position: relative;
+}
+.menu ul{
+   display: flex;
+   list-style-type: none;
+  
+}
+.menu ul li {
+ padding: 10px;
+}
+.foto{
+    background-image: url(imagens/peixe.png);
+    background-size:cover;
+    background-position: center center;
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 4%;
+    border-radius: 50%;
+    box-shadow: 1px 5px 10px  black;
+    margin-left: 77%;
+    /* background: linear-gradient(to right, white, lightblue); */
+}
+
+.formulario{
+    margin: 21% 5%;
+
+}
+
+￼Enter
