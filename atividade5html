@@ -1,0 +1,38 @@
+body{
+    color: black;
+    margin: 1px 20%;
+    background: url('../imagens/peixe.png');
+    background-repeat: no-repeat;
+    background-position: 45% center;
+    background-attachment: fixed;
+    background-size: auto;    
+}
+h2 {
+    background: url(../imagens/fundo3.gif);
+    text-align: right;
+    opacity: 100px;
+}
+h2:hover {
+    background: url(../imagens/fundo1.gif);
+}
+.navbar {
+    background-color: aquamarine;
+}
+ul {
+    display: flex;
+    margin-left: 30%;
+    list-style-type: none;
+}
+ul li {
+    padding-left: 10px;
+}
+a {
+    color: purple;
+    text-decoration: none;
+}
+a:hover {
+    color: blue;
+    background-color: white;
+}
+
+
